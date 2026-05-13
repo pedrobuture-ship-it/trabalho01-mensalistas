@@ -22,7 +22,11 @@ Requisitos:
 
 - JDK 8 ou superior
 - Maven
+Sem Maven instalado:
 
+```bash
+.\mvnw.cmd spring-boot:run
+```
 Com Maven instalado:
 
 ```bash
