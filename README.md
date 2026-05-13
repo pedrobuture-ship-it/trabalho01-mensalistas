@@ -6,9 +6,8 @@ Disciplina: Desenvolvimento Web
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
+Pedro Buture de Oliveira
+Arthur Gregorio
 
 ## Descrição
 
