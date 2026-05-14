@@ -6,7 +6,7 @@ Disciplina: Desenvolvimento Web
 
 ## Integrantes
 
-Pedro Buture de Oliveira
+Pedro Buture de Oliveira &&
 Arthur Gregorio
 
 ## Descrição
